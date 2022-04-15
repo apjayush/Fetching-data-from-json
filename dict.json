@@ -1,0 +1,60 @@
+[
+{
+  "word": "celibacy",
+  "definitions": [
+    {
+      "definition": "abstaining from sexual relations (as because of religious vows)",
+      "partOfSpeech": "noun"
+    },
+    {
+      "definition": "an unmarried status",
+      "partOfSpeech": "noun"
+    }
+  ]
+},
+
+{
+  "word": "cricket",
+  "definitions": [
+    {
+      "definition": "a game played with a ball and bat by two teams of 11 players; teams take turns trying to score runs",
+      "partOfSpeech": "noun"
+    },
+    {
+      "definition": "leaping insect; male makes chirping noises by rubbing the forewings together",
+      "partOfSpeech": "noun"
+    },
+    {
+      "definition": "play cricket",
+      "partOfSpeech": "verb"
+    }
+  ]
+},
+{
+  "word": "rebel",
+  "definitions": [
+    {
+      "definition": "break with established customs",
+      "partOfSpeech": "verb"
+    },
+    {
+      "definition": "take part in a rebellion; renounce a former allegiance",
+      "partOfSpeech": "verb"
+    },
+    {
+      "definition": "`Johnny' was applied as a nickname for Confederate soldiers by the Federal soldiers in the American Civil War; `greyback' derived from their grey Confederate uniforms",
+      "partOfSpeech": "noun"
+    },
+    {
+      "definition": "a person who takes part in an armed rebellion against the constituted authority (especially in the hope of improving conditions)",
+      "partOfSpeech": "noun"
+    },
+    {
+      "definition": "someone who exhibits great independence in thought and action",
+      "partOfSpeech": "noun"
+    }
+  ]
+}
+
+
+]
